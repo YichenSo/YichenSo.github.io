@@ -16,6 +16,6 @@ Publications
 ======
 - Alessio Russo, **Yichen Song**, Aldo Pacchiano, [Pure exploration with feedback graphs](https://arxiv.org/pdf/2503.07824?), 
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
-- Hongyu Zhou, Yichen Song, Vasileios Tzoumas, [Safe non-stochastic control of control-affine systems: An online convex optimization approach](https://arxiv.org/pdf/2309.16817), IEEE Robotics and Automation Letters (RA-L), 2023.
+- Hongyu Zhou, **Yichen Song**, Vasileios Tzoumas, [Safe non-stochastic control of control-affine systems: An online convex optimization approach](https://arxiv.org/pdf/2309.16817), IEEE Robotics and Automation Letters (RA-L), 2023.
 
 
