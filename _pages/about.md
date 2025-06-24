@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I'm a second-year [Ph.D. student at Boston University Center for Computing and Data Sciences](https://www.bu.edu/cds-faculty/explore/bu-center-for-computing-data-sciences/) where I'm fortunate to be advised by [Aldo Pacchiano](https://www.aldopacchiano.ai/). Previously, I did my master in the [Robotics Department at the University of Michigan](https://robotics.umich.edu/). I also spent time in [Honda Research Institute US](https://usa.honda-ri.com/) as a Research Intern in Summer 2022
 
 My research interests lie in the area of Sequential Decision Making with focuses on Reinforcement learning and Bandits. I'm particularly excited about designing and analyzing adaptive algorithms that can work in non-stationary environments.  
