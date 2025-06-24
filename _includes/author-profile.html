@@ -47,6 +47,9 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
+      {% if author.CV %}
+      <li><a href="https://yichenso.github.io/files/CV_Yichen_Song_2025.pdf"><i class="fas fa-fw fa-file-pdf icon-pad-right"></i>CV</a></li>
+      {% endif %}
       {% if author.semantic %}
         <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
       {% endif %}
