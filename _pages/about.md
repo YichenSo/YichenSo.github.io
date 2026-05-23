@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third-year Ph.D. student [at Boston University Center for Computing and Data Sciences](https://www.bu.edu/cds-faculty/explore/bu-center-for-computing-data-sciences/) where I'm fortunate to be advised by [Aldo Pacchiano](https://www.aldopacchiano.ai/). Previously, I did my master in the [Robotics Department at the University of Michigan](https://robotics.umich.edu/). I also spent time in [Honda Research Institute US](https://usa.honda-ri.com/) as a Research Intern in Summer 2022
 
-My research focuses on sequential decision-making, particularly in reinforcement learning and bandits. I am currently especially interested in two directions: (1) learning general decision-making and experimental design rules from offline datasets, and (2) developing continual-learning agents that perform well in non-stationary environments.
+My research focuses on sequential decision-making, particularly in reinforcement learning and bandits. I am currently especially interested in two directions: (1) learning general decision-making and experimental design rules from offline datasets, and (2) developing continual-learning agents for non-stationary environments.
 
 
 Manuscripts Under Review
