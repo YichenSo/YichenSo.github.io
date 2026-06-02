@@ -15,6 +15,7 @@ My research focuses on sequential decision-making, particularly in reinforcement
 Manuscripts Under Review
 ======
 - **Yichen Song**, Alessio Russo, Aldo Pacchiano, "Future Information-Directed Sampling for Bayesian Nonstationary Bandits".
+  - <small>Accepted for presentation at ICML 2026 Workshop on [Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning](https://decision-making-offline2online-icml2026.github.io/).</small>
 
 
 Publications
